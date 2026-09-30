@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* h1 { 
+    color: red;
+    font-size: 5em;
+
+}
+[ href = "https://www.facebook.com/?locale=es_LA"]
+{
+    color: aquamarine;
+}
+
+[ href = "https://www.tiktok.com/@onopkov_j0/video/7623271242409282823"]
+{
+    color: greenyellow;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+input:focus {
+    background-color: beige;
+}
+
+/* ul li:nth-child(2){
+    color: burlywood;
+} */
+/*  
+ footer{
+ ul li:nth-child(even){
+    background-color: grey;
+ }
+  ul li:nth-child(odd){
+    background-color: lightcyan;
+ }
+}
+p::first-line{
+    color: blue;
+    text-decoration: underline;
+}
+p::first-letter{
+    color: peru;
+    text-decoration: underline;
+    font-size: 44px;
+}
+*::selection{
+    background-color: yellow;
+}
+
+div li{
+    background-color: antiquewhite;
+}
+
+div h2{
+    font-size: 25px;
+}
+
+.menu .options a {
+    color: brown;
+}
+ul>li {
+    border-top: 1px solid blue;
+} */
+  
+/* h2 + p{
+    background-color: blueviolet;
+}
+ */
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+.titulo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blue;
+}
+a{
+    color: inherit;
+}
+p{
+    color: blue;
+}
+.text-detacado{
+color: green;
+}
+.mensaje principal{
+    color: goldenrod;
+}

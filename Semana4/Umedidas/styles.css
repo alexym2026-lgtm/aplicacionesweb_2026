@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.general{
+    width: 500px;
+    height: 600px;
+    font-size: 1em;
+    background-color: rgb(200 155 65);
+}
+.px{
+    width: 200px;
+    height: 100px;
+   
+    background-color: #ff000f;
+}
+.vw{
+    width: 10vw;
+    height: 10vh;
+  
+    background-color: hsl(108,68%,50%);
+}
+.em{
+    width: 10em;
+    height: 10em;
+  
+    background-color: hsla(108,68%,50%,.5);
+}
+.rem{
+    background-color: green;
+}
+.por{
+    width: 50%;
+    background-color: black;
+}
+.cor {
+    width: 200px;
+    height: 100px;
+    background: linear-gradient(217deg, rgba(255, 0, 0, 0.8), rgba(255, 0, 0, 0) 70.71%);
+}
+main{
+    margin-left: 20px;
+}
